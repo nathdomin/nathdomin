@@ -1,5 +1,7 @@
 # Olá, eu sou o Nathan Domingues 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F2B705&vCenter=true&width=560&lines=Estudante+de+Intelig%C3%AAncia+Artificial;Crio+jogos+web+com+TypeScript;Construo+agentes+de+IA+em+Python;AI+student+%C2%B7+web+games+%C2%B7+AI+agents)](https://curriculonathdomin.netlify.app)
+
 Estudante de **Inteligência Artificial** (Universidade Santa Cecília, Santos - SP) e Jovem Aprendiz de RH no CSC da Coca-Cola FEMSA.
 Construo **jogos web, aplicações e agentes de IA** do zero ao deploy, usando IA generativa como ferramenta de desenvolvimento.
 
@@ -17,14 +19,30 @@ Construo **jogos web, aplicações e agentes de IA** do zero ao deploy, usando I
 
 ## Projetos em destaque · Featured projects
 
+### 🎮 Sankofa: Caminhos da Resistência
+Jogo de plataforma 2D sobre a resistência negra no Brasil, com movimentos de capoeira. Arte e música 100% geradas em código (Phaser 3 + TypeScript + Web Audio).
+*2D platformer about Black resistance in Brazil; all art and music generated in code.*
+
+[![Gameplay do Sankofa](https://raw.githubusercontent.com/nathdomin/sankofa/main/docs/sankofa.gif)](https://nathdomin.github.io/sankofa/)
+
+**[▶ Jogar no navegador](https://nathdomin.github.io/sankofa/)** · [Código](https://github.com/nathdomin/sankofa)
+
+### Outros projetos · More projects
+
 | Projeto | O que é | Stack | Demo |
 |---|---|---|---|
-| [**Sankofa**](https://github.com/nathdomin/sankofa) | Jogo de plataforma 2D sobre a resistência negra no Brasil; arte e música 100% geradas em código | Phaser 3, TypeScript, Vite, Web Audio | [Jogar](https://nathdomin.github.io/sankofa/) |
 | [**VivAI+**](https://github.com/nathdomin/VivAIplus) | Agente de IA que lê currículos (PDF/DOCX) e indica os setores com mais aderência, com cuidado de LGPD | Python, Gemini, Supabase, Backblaze B2 | [Abrir](https://agenteia-vivaplus.onrender.com) |
 | [**Digitalize**](https://github.com/nathdomin/digitalize) | App para digitalizar documentos pela câmera do celular, com tratamento de imagem, pastas, busca e login | JavaScript, Netlify Functions, Netlify Blobs | [Abrir](https://digital-ize.netlify.app) |
 | [**Viva+**](https://github.com/nathdomin/vivaplus) | Site institucional com painel administrativo para a equipe editar o conteúdo sem programar | HTML, CSS, JavaScript, Decap CMS | [Abrir](https://vivaplus.netlify.app) |
 | [**MeetKof**](https://github.com/nathdomin/reserva-salas) | Sistema de reserva de salas com calendário, reservas sem conflito de horário, painel admin e histórico | TypeScript | — |
 | [**Adivinhe o Pokémon**](https://github.com/nathdomin/adivinhe-o-pokemon) | Jogo de adivinhar o Pokémon pela silhueta e pelas dicas | JavaScript, PokeAPI | [Jogar](https://nathdomin.github.io/adivinhe-o-pokemon/) |
+
+## Contribuições · Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nathdomin/nathdomin/output/github-snake-dark.svg" />
+  <img alt="Cobrinha comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/nathdomin/nathdomin/output/github-snake.svg" />
+</picture>
 
 ## Contato · Contact
 
